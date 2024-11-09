@@ -1,5 +1,8 @@
 # Fizz Setup Guide
 
+![image](https://github.com/user-attachments/assets/0c65e079-47e2-4a10-838f-40268d314861)
+
+
 Bu rehber, bir Fizz instance'ını Ubuntu sunucusunda yapılandırmak için gerekli kurulum adımlarını içerir. İçerisinde; sistem güncelleme, Docker ve Docker Compose kurulumu, izinlerin ayarlanması, swap dosyası oluşturulması ve Fizz kurulum script'inin çalıştırılması gibi adımlar yer almaktadır.
 
 ## Gereksinimler
@@ -59,8 +62,33 @@ Setup:
 Fizz Setup Linki ile sunucu bilgilerinizi girin ve dosyayı indirin. https://fizz.spheron.network/
 Bu dosyayı SFTP ile sunucunuza yükleyin.
 
+![image](https://github.com/user-attachments/assets/066e318b-c04e-4422-8592-b3479e3d53bc)
+
+
 ## Çalıştırma Adımları:
 Dosyaya çalıştırma izni verin:
+
+```bash
+chmod +x /root/fizzup.sh
+```
+
+## Screen : 
+
+```bash
+screen -S fizz
+```
+
+## Sunucuya SFTP Olarak Yüklediğin Scripti Çalıştır : 
+
+```bash
+sh /root/fizzup.sh
+```
+
+## Docker Loglarını Görüntüleme : 
+
+```bash
+docker compose -f ~/.spheron/fizz/docker-compose.yml logs -f
+```
 
 
 
