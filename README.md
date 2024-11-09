@@ -81,7 +81,7 @@ screen -S fizz
 ## Sunucuya SFTP Olarak Yüklediğin Scripti Çalıştır : 
 
 ```bash
-sh ~root/fizzup-v1.1.0.sh
+bash ~root/fizzup-v1.1.0.sh
 ```
 
 ## Docker Loglarını Görüntüleme : 
