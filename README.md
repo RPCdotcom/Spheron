@@ -69,7 +69,7 @@ Bu dosyayı SFTP ile sunucunuza yükleyin.
 Dosyaya çalıştırma izni verin:
 
 ```bash
-chmod +x ~root/fizzup-v1.1.2.sh
+chmod +x ~root/fizzup-v1.1.0.sh
 ```
 
 ## Screen : 
@@ -81,7 +81,7 @@ screen -S fizz
 ## Sunucuya SFTP Olarak Yüklediğin Scripti Çalıştır : 
 
 ```bash
-sh ~root/fizzup-v1.1.2.sh
+sh ~root/fizzup-v1.1.0.sh
 ```
 
 ## Docker Loglarını Görüntüleme : 
