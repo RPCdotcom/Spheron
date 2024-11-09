@@ -50,7 +50,7 @@ sudo usermod -aG docker $USER
 ## Swap Dosyası Oluşturma : 
 
 ```bash
-sudo fallocate -l 4096M /swapfile
+sudo fallocate -l 2096M /swapfile
 sudo chmod 600 /swapfile
 sudo mkswap /swapfile
 sudo swapon /swapfile
@@ -69,7 +69,7 @@ Bu dosyayı SFTP ile sunucunuza yükleyin.
 Dosyaya çalıştırma izni verin:
 
 ```bash
-chmod +x /root/fizzup.sh
+chmod +x ~root/fizzup-v1.1.2.sh
 ```
 
 ## Screen : 
@@ -81,13 +81,13 @@ screen -S fizz
 ## Sunucuya SFTP Olarak Yüklediğin Scripti Çalıştır : 
 
 ```bash
-sh /root/fizzup.sh
+~root/fizzup-v1.1.2.sh
 ```
 
 ## Docker Loglarını Görüntüleme : 
 
 ```bash
-docker compose -f ~/.spheron/fizz/docker-compose.yml logs -f
+docker-compose -f ~/.spheron/fizz/
 ```
 
 
