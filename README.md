@@ -11,7 +11,7 @@ PQ : https://pq.hosting/?from=627713
 Hetzner : https://hetzner.cloud/?ref=ASjlHtRt2swV 
 Digital Ocean : https://digitalocean.pxf.io/q465nn
 
-##Fizz Sitesi : 
+## Fizz Sitesi : 
 
 - Link : https://fizz.spheron.network/
 
