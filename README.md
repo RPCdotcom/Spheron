@@ -9,6 +9,11 @@ Bu rehber, bir Fizz instance'ını Ubuntu sunucusunda yapılandırmak için gere
 - Ubuntu sunucusu
 - SFTP erişimi (dosya yüklemek için)
 
+## Sunucu Özellikleri 
+
+- Min : 4 CPU 8 RAM 100 GB SSD
+- Max : 32 CPU 128 RAM 2000 GB SSD
+
 ## 1. Sistemi Güncelle ve Yükselt
 
 Sistem paketlerini güncellemek ve yükseltmek için aşağıdaki komutu çalıştırın:
