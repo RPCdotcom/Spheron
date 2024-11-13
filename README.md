@@ -11,6 +11,10 @@ PQ : https://pq.hosting/?from=627713
 Hetzner : https://hetzner.cloud/?ref=ASjlHtRt2swV 
 Digital Ocean : https://digitalocean.pxf.io/q465nn
 
+##Fizz Sitesi : 
+
+- Link : https://fizz.spheron.network/
+
 ## Gereksinimler
 - Ubuntu sunucusu
 - SFTP erişimi (dosya yüklemek için)
