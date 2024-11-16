@@ -6,10 +6,10 @@
 Bu rehber, bir Fizz instance'ını Ubuntu sunucusunda yapılandırmak için gerekli kurulum adımlarını içerir. İçerisinde; sistem güncelleme, Docker ve Docker Compose kurulumu, izinlerin ayarlanması, swap dosyası oluşturulması ve Fizz kurulum script'inin çalıştırılması gibi adımlar yer almaktadır.
 
 ## Server  : 
-Contabo : https://bit.ly/contabourl 
-PQ : https://pq.hosting/?from=627713 
-Hetzner : https://hetzner.cloud/?ref=ASjlHtRt2swV 
-Digital Ocean : https://digitalocean.pxf.io/q465nn
+- Contabo : https://bit.ly/contabourl 
+- PQ : https://pq.hosting/?from=627713 
+- Hetzner : https://hetzner.cloud/?ref=ASjlHtRt2swV 
+- Digital Ocean : https://digitalocean.pxf.io/q465nn
 
 ## Fizz Sitesi : 
 
