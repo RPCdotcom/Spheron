@@ -23,7 +23,7 @@ chmod +x fizzup-v1.1.1.sh
 bash fizzup-v1.1.1.sh
 ```
 
-### Kendisi eski çalışanı kapatacak - yeni containeri oluşturup başlatacaktır. Sonrasında Loglar gelecektir.
+#### Kendisi eski çalışanı kapatacak - yeni containeri oluşturup başlatacaktır. Sonrasında Loglar gelecektir.
 
 ![image](https://github.com/user-attachments/assets/f9084449-e8da-4269-a2d3-7ed1c1468cdb)
 
@@ -34,3 +34,4 @@ bash fizzup-v1.1.1.sh
 ```bash
 docker-compose -f ~/.spheron/fizz/docker-compose.yml logs -f
 ```
+#### Paneliniz üzerinden Kontrol Edebilirsiniz. Artık Güncel bir şekilde devam edecektir.
