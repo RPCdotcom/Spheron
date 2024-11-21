@@ -35,3 +35,5 @@ bash fizzup-v1.1.1.sh
 docker-compose -f ~/.spheron/fizz/docker-compose.yml logs -f
 ```
 #### Paneliniz üzerinden Kontrol Edebilirsiniz. Artık Güncel bir şekilde devam edecektir.
+
+![image](https://github.com/user-attachments/assets/f35de96f-12dc-4233-981b-6149d644a836)
