@@ -10,7 +10,7 @@
 
 - Termius kullanıyorsanız dosyayı root dizinin altına sürüklemeniz yeterli olacaktır. Doğru dosyayı sürüklediğinizden emin olun. Eski script olmasın :)
 
-![image](https://github.com/user-attachments/assets/ce27da95-b803-47f2-8be2-08e2a56dde6d)
+![image](https://github.com/user-attachments/assets/37294168-c5b3-4522-9e13-09b380fe4414)
 
 ## Yetki Verelim : 
 
