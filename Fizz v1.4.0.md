@@ -34,6 +34,9 @@ curl -sL1 https://sphnctl.sh | bash
 
 ![image](https://github.com/user-attachments/assets/8f9bb63b-09c8-4eb3-8c52-01507c6d4ad4)
 
+#### Artık Temiz Bir Şekilde Online Olduğunu Göreceksiniz : 
+
+![image](https://github.com/user-attachments/assets/7b643f12-f382-4c50-8c2d-182f6f85887a)
 
 
 ## Versiyon Kontrolü Ve Durdurma Komutları : 
@@ -48,4 +51,11 @@ sphnctl fizz version
 
 ```bash
 sphnctl fizz stop
+```
+
+
+#### Çalıştığını Anlamak İçin Mini Log Kontrol Komutu : 
+
+```bash
+sphnctl fizz logs
 ```
