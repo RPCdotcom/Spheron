@@ -2,7 +2,10 @@
 
 ![image](https://github.com/user-attachments/assets/eab0eb38-aa23-440c-9d6a-55374ff11a39)
 
-#### Setup Kısmından Allta Generate Command Bölümüne Tıklayın ; 
+![image](https://github.com/user-attachments/assets/c1eaf309-dad0-4ae5-9814-3f42ef30e6ca)
+
+
+#### Setup Kısmından Altta Generate Command Bölümüne Tıklayın ; 
 
 - Sayfanız böyle gözükecek ; 
 
