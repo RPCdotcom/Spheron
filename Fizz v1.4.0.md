@@ -28,3 +28,8 @@ curl -sL1 https://sphnctl.sh | bash
 #### Loglarda bu Yazıları gördükten sonra CTRL C ile çıkabilirsiniz : 
 
 ![image](https://github.com/user-attachments/assets/8ff7a724-d524-4ded-94a5-ef114664d71a)
+
+
+#### Çalışmaya Başladıktan 1-2 Dk sonra Setup Sayfasından "Check Status" butonuna tıklayın : 
+
+![image](https://github.com/user-attachments/assets/8f9bb63b-09c8-4eb3-8c52-01507c6d4ad4)
